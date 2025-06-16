@@ -22,7 +22,6 @@ Competition in Games and Entertainment Genres: Games and entertainment genres fa
 
 
 
-
 Acknowledgments
 
 I would like to thank Alex The Analyst for their insightful tutorial, which served as the foundation for this project. Their guidance made learning data cleaning with MySQL much easier and more enjoyable
