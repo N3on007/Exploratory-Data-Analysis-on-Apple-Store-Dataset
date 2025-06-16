@@ -3,6 +3,7 @@ Overview
 
 This repository contains an exploratory data analysis (EDA) on Apple Store Apps data using SQL. The analysis includes various SQL queries to gain insights into the dataset, such as checking missing values, exploring the distribution of app genres, reviewing app ratings, and more.
 
+
 Key Insights
 
 The following key insights have been derived from the exploratory data analysis:
@@ -18,6 +19,8 @@ Description Length and User Ratings Correlation: Apps with longer descriptions g
 Optimal Average Rating: Aspiring developers should aim for an average rating above 3.5
 
 Competition in Games and Entertainment Genres: Games and entertainment genres face high competition in the app market.
+
+
 
 
 Acknowledgments
